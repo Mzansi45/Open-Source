@@ -1,0 +1,38 @@
+{
+    "borderColor": {
+        "red": 255,
+        "green": 165,
+        "blue": 0,
+        "alpha": 255
+    },
+    "backgroundColor": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 255
+    },
+    "iconColor": {
+        "red": 128,
+        "green": 128,
+        "blue": 128,
+        "alpha": 255
+    },
+    "textColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 255
+    },
+    "selectedIconColor": {
+        "red": 255,
+        "green": 165,
+        "blue": 0,
+        "alpha": 255
+    },
+    "secondaryBackgroundColor": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 45
+    }
+}
